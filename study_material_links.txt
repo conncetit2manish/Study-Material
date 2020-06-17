@@ -1,0 +1,5 @@
+Difference between jvm jdk and jre.
+https://www.youtube.com/watch?v=eaAqwTdUAAo
+
+Spring tutorials
+https://www.youtube.com/watch?v=YpsFT50mths&list=PLd3UqWTnYXOmpGjkPiaLZsVw6JYw18vMT
